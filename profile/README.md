@@ -45,4 +45,4 @@ This organization is not a portfolio, a product repository, or a services catalo
 
 ## Links
 
-- Founder & Lead Researcher ([personal GitHub](https://github.com/syedndx))
+- Founder & Lead Researcher ([Syed Furqaan Ahmed](https://github.com/syedndx))
