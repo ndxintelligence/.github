@@ -46,3 +46,4 @@ This organization is not a portfolio, a product repository, or a services catalo
 ## Links
 
 - Founder & Lead Researcher ([Syed Furqaan Ahmed](https://github.com/syedndx))
+- Co - Founder & Lead Analyst ([Mohammed Asif Ahemd](https://github.com/asifmddev))
